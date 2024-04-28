@@ -3,6 +3,6 @@
   **Backend** был взят сторонний и на его основе создавалась клиентская часть приложения.
 
 # Как запустить проект
-  **npx create-react-app .
-  npm i axios react-router-dom mobx mobx-react-lite
-  npm install react-bootstrap bootstrap**
+  **npx create-react-app .\
+  npm i axios react-router-dom mobx mobx-react-lite\
+  npm install react-bootstrap bootstrap**\
