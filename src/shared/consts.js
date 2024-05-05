@@ -1,7 +1,0 @@
-export const ADMIN_ROUTE = '/admin'
-export const BASKET_ROUTE = '/basket'
-export const LOGIN_ROUTE = '/login'
-export const SIGNUP_ROUTE = '/signup'
-export const SHOP_ROUTE = '/'
-export const DEVICE_ROUTE = '/device'
-export const ABOUT_ROUTE = '/about'
