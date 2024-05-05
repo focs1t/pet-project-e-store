@@ -12,8 +12,8 @@ const DeviceItem = (device) => {
 
     return (
         <Col md={3} className="mt-3" onClick={goToDevicePage}>
-            <Card rounded style={{width: 150, cursor: 'pointer'}} border={"light"}>
-                <Image className="rounded" width={150} height={150} src={device.img}/>
+            <Card style={{width: 150, cursor: 'pointer'}} border={"light"}>
+                <Image width={150} height={150} src={device.img}/>
                 <div className="text-black-50 mt-1 d-flex justify-content-between align-items-center">
                     <div>
                         Samsung...
